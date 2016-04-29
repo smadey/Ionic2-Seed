@@ -27,3 +27,5 @@ UserInterfaceState.xcuserstate
 
 platforms/*
 !platforms/platforms.json
+plugins/*
+!plugins/fetch.json
